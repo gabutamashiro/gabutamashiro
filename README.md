@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 ## Gabriela Tamashiro
 
 <div align="middle">
-<img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif">
+<img src="https://media.giphy.com/media/sPN6dcdruDgdi/giphy.gif">
 <br><br>
   Oii! 👋 <br>
   Estudante de Ciência da Computação na Unesp de Presidente Prudente, com um grande amor por Tecnologia, Design e Artes em geral. Busco crescer e me desenvolver cada vez mais!
