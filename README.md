@@ -24,6 +24,6 @@ You can click the Preview link to take a look at your changes.
 
 <div align="middle">
   <a href="https://github.com/gabutamashiro">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gabutamashiro&show_icons=true&theme=tokyonight&show_icons=true&count_private=true&hide=issues"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabutamashiro&theme=tokyonight&layout=compact&langs_count=6"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gabutamashiro&count_private=true&theme=tokyonight&show_icons=true&hide=stars,issues"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabutamashiro&theme=tokyonight&layout=compact"/>
 </div>
